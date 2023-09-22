@@ -1,0 +1,17 @@
+{
+  "name": "test-esbuild",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "José F. Romaniello <jfromaniello@gmail.com> (https://joseoncode.com/)",
+  "license": "MIT",
+  "devDependencies": {
+    "esbuild": "0.19.3"
+  },
+  "dependencies": {
+    "cose": "github:jfromaniello/cose"
+  }
+}
